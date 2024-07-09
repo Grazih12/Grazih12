@@ -14,3 +14,5 @@
   <a href="https://www.linkedin.com/in/graziele-cb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea32ee44dfcaf24ddcb6723b607b1dcd4404c7a0a25756e6ffbe1bb2718c7c5e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416d697231307426686964655f70726f67726573733d66616c7365266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/ea32ee44dfcaf24ddcb6723b607b1dcd4404c7a0a25756e6ffbe1bb2718c7c5e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416d697231307426686964655f70726f67726573733d66616c7365266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir10t&amp;hide_progress=false&amp;layout=compact" style="max-width: 100%;"></a>
+
